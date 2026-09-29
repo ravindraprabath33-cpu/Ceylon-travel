@@ -1,0 +1,6 @@
+{
+  "name": "Eco Travels Sri Lanka",
+  "description": "Sri Lanka's premier sustainable expeditions, luxury wildlife safaris, tea highland escapes, and carbon-neutral journeys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
